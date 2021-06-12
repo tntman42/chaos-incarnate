@@ -3,7 +3,7 @@
 	<info>
 		<name>Chaos Incarnate</name>
 		<author>tntman42</author>
-		<update version="0.0.1">
+		<update version="0.0.2">
 			<file name="chaos-incarnate.index" url="https://raw.githubusercontent.com/tntman42/chaos-incarnate/master/chaos-incarnate.index" />
 		</update>
 	</info>
