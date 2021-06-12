@@ -7,6 +7,6 @@
 		</update>
 	</info>
 	<files>
-		
+		<file name="deiteis.xml" url="https://raw.githubusercontent.com/tntman42/chaos-incarnate/master/chaos-incarnate/deities.xml" />
 	</files>
 </index>
