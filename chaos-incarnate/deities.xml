@@ -7,7 +7,7 @@
 			<file name="deities.xml" url="https://github.com/tntman42/chaos-incarnate/blob/master/chaos-incarnate/deities.xml" />
 		</update>
 	</info>
-	<element name="Auril" type="Deity" source="Player’s Handbook" id="ID_WOTC_PHB_DEITY_AURIL">
+	<element name="Wan Shi Ton" type="Deity" source="Chaos Incarnate" id="ID_WOTC_PHB_DEITY_WAN_SHI_TON">
 		<description>
 			<p>God of knowledge</p>
 		</description>
