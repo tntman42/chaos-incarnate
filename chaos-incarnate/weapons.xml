@@ -3,14 +3,14 @@
     <info>
         <name>Weapons</name>
         <description></description>
-        <update version="1.0.4">
+        <update version="1.0.5">
             <file name="weapons.xml" url="https://raw.githubusercontent.com/tntman42/chaos-incarnate/master/chaos-incarnate/weapons.xml" />
         </update>
     </info>
     <element name="Tome on Chain, +1" type="Magic Item" source="Chaos Incarnate" id="ID_WOTC_DMG_MAGIC_ITEM_BOOK_FLAIL_1">
 		<description>
             <p>This is literally a mathematics text book on a flail. The cover is a weird graphic (like the ones you would see on a highshool textbook) of an owl. This item is also a holy symbol. The textbook is enchanted to be denser than it should be.</p>
-			<p>You have a +1 bonus to attack and damage rolls made with this magic weapon.</p>
+			<p>You have a +1 bonus to attack and damage rolls made with this magic weapon. As well as adding your STR modifier</p>
 		</description>
 		<setters>
 			<set name="category">Magic Weapons</set>
