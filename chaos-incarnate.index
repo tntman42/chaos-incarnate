@@ -4,10 +4,10 @@
 		<name>Chaos Incarnate</name>
 		<description>The content from my homebrew.</description>
 		<update version="0.0.0">
-			<file name="chaos-incarnate.index" url="https://github.com/tntman42/chaos-incarnate/blob/master/chaos-incarnate.index" />
+			<file name="chaos-incarnate.index" url="https://raw.githubusercontent.com/tntman42/chaos-incarnate/blob/master/chaos-incarnate.index" />
 		</update>
 	</info>
 	<files>
-		<file name="deiteis.xml" url="https://github.com/tntman42/chaos-incarnate/blob/master/chaos-incarnate/deities.xml" />
+		<file name="deiteis.xml" url="https://raw.githubusercontent.com/tntman42/chaos-incarnate/blob/master/chaos-incarnate/deities.xml" />
 	</files>
 </index>
