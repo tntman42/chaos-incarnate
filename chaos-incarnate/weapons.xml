@@ -3,7 +3,7 @@
     <info>
         <name>Weapons</name>
         <description></description>
-        <update version="0.0.1">
+        <update version="0.0.2">
             <file name="weapons.xml" url="https://raw.githubusercontent.com/tntman42/chaos-incarnate/master/chaos-incarnate/weapons.xml" />
         </update>
     </info>
@@ -19,7 +19,7 @@
 			<set name="rarity">Why</set>
 			<set name="enhancement">1</set>
 			<set name="weapon">ID_INTERNAL_WEAPON_CATEGORY_SIMPLE_MELEE||ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE||ID_INTERNAL_WEAPON_GROUP_MACES</set>
-			<set name="name-format">{{parent}} +{{enhancement}}</set>
+			<set name="name-format">Tome on Chain</set>
 		</setters>
 	</element>
 </elements>
