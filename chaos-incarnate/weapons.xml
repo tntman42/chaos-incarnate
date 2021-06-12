@@ -3,7 +3,7 @@
     <info>
         <name>Weapons</name>
         <description></description>
-        <update version="0.0.2">
+        <update version="1.0.3">
             <file name="weapons.xml" url="https://raw.githubusercontent.com/tntman42/chaos-incarnate/master/chaos-incarnate/weapons.xml" />
         </update>
     </info>

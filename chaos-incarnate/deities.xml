@@ -3,7 +3,7 @@
 	<info>
 		<name>Deities</name>
 		<description>Deities Henry has invented.</description>
-		<update version="0.2">
+		<update version="1.0.3">
 			<file name="deities.xml" url="https://raw.githubusercontent.com/tntman42/chaos-incarnate/master/chaos-incarnate/deities.xml" />
 		</update>
 	</info>
