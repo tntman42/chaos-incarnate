@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Deities</name>
+		<description>Deities Henry has invented.</description>
+		<update version="0.2">
+			<file name="deities.xml" url="" />
+		</update>
+	</info>
+	<element name="Auril" type="Deity" source="Player’s Handbook" id="ID_WOTC_PHB_DEITY_AURIL">
+		<description>
+			<p>God of knowledge</p>
+		</description>
+		<setters>
+			<set name="setting">Chaos</set>
+			<set name="alignment">CG</set>
+			<set name="domains">Knowledge</set>
+			<set name="symbol">Owl</set>
+		</setters>
+		<sheet>
+			<description>God of knowledge, protector of the secret library of all knowledge.</description>
+		</sheet>
+	</element>
+</elements>

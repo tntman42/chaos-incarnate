@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Chaos Incarnate</name>
+		<description>The content from various third party sources.</description>
+		<update version="0.0.0">
+			<file name="chaos-incarnate.index" url="" />
+		</update>
+	</info>
+	<files>
+		<file name="deiteis.xml" url="" />
+	</files>
+</index>
