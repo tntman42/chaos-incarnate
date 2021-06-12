@@ -10,5 +10,6 @@
 	<files>
 		<file name="deiteis.xml" url="https://raw.githubusercontent.com/tntman42/chaos-incarnate/master/chaos-incarnate/deities.xml" />
 		<file name="weapons.xml" url="https://raw.githubusercontent.com/tntman42/chaos-incarnate/master/chaos-incarnate/weapons.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/tntman42/chaos-incarnate/master/chaos-incarnate/source.xml" />
 	</files>
 </index>

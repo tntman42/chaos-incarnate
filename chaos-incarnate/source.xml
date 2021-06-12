@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.1">
+			<file name="source.xml" url="https://raw.githubusercontent.com/tntman42/chaos-incarnate/master/chaos-incarnate/source.xml" />
+		</update>
+	</info>
+	<element name="tntman42" type="Source" source="Chaos" id="ID_HOMEBREW_SOURCE_TNTMAN">
+		<description>
+			<![CDATA[<p></p>]]>
+		</description>
+		<setters>
+			<set name="abbreviation">CI</set>
+			<set name="url"></set>
+			<set name="author" url="">tntman42</set>
+			<set name="homebrew">true</set>
+		</setters>
+	</element>
+</elements>
